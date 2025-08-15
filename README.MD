@@ -7,6 +7,7 @@ This is a macropad that I made for HackClub's Highway program.
 - An OLED Screen
 
 ## Hackpad
+<img width="626" height="696" alt="image" src="https://github.com/user-attachments/assets/4d211f3f-1630-4c52-88eb-a048e4a449d0" />
 ![Hackpad](hackpad.png)
 
 ## Schematic
